@@ -1,0 +1,15 @@
+{
+  "hash": "2af80bc4",
+  "configHash": "db3ffcc9",
+  "lockfileHash": "f8666048",
+  "browserHash": "8b4e6b7c",
+  "optimized": {
+    "mockjs": {
+      "src": "../../../../../node_modules/mockjs/dist/mock.js",
+      "file": "mockjs.js",
+      "fileHash": "18a0c649",
+      "needsInterop": true
+    }
+  },
+  "chunks": {}
+}

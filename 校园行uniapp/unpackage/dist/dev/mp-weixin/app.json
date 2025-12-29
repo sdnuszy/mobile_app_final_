@@ -1,0 +1,44 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/like/like",
+    "pages/my/my",
+    "pages/detail/detail",
+    "pages/line/line",
+    "pages/building/building",
+    "pages/forum/forum"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#2867CE",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tabbar/ly-home01.png",
+        "selectedIconPath": "static/tabbar/ly-home.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/like/like",
+        "iconPath": "static/tabbar/ly-link01.png",
+        "selectedIconPath": "static/tabbar/ly-link.png",
+        "text": "学习经验"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "iconPath": "static/tabbar/ly-my01.png",
+        "selectedIconPath": "static/tabbar/ly-home.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

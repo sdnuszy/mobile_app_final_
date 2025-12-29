@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "建筑详情",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "up-navbar": "../../uni_modules/uview-plus/components/u-navbar/u-navbar"
+  }
+}
